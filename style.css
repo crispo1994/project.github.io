@@ -1,0 +1,61 @@
+html {
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+body {
+  width: 800px;
+  margin: 80 auto;
+  background-image: url(..//proyecto/img/fondo7.jpg);
+}
+
+h1, h2 {
+  font-family: 'Ink Free', cursive;
+}
+
+/* header styles */
+
+h1 {
+  font-size: 5rem;
+  text-align: center;
+  color: beige;
+  
+}
+
+header p {
+  font-family: 'Ink Free', cursive;
+  font-size: 2.3rem;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
+/* section styles */
+
+section article {
+  font-family: 'Ink Free', cursive;
+  width: 33%;
+  float: left;
+  color: white;
+}
+
+section p {
+  margin: 5px 0;
+}
+
+section ul {
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 3.5rem;
+  letter-spacing: -5px;
+  margin-bottom: 10px;
+  color: white;
+}
+a{
+  font-family: 'Ink Free', cursive;
+  font-size: 1.9rem;
+  color:rgb(189, 24, 24);
+  position: relative;
+  left: 700px;
+}

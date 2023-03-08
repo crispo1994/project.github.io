@@ -1,0 +1,40 @@
+{
+  "squadName" : "SUPER HUMANS",
+  "ciudad" : "Bogota",
+  "año" : 2016,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "SpiderMan",
+      "age" : 28,
+      "secretIdentity" : "Cristian Gomez",
+      "powers" : [
+        "Poder Aracnido",
+        "Super Fuerza",
+        "Zumbido"
+      ]
+    },
+    {
+      "name" : "Aquaman",
+      "age" : 48,
+      "secretIdentity" : "Jose Gomez",
+      "powers" : [
+        "Comunicacion con peces",
+        "Tridente",
+        "Control del Agua"
+      ]
+    },
+    {
+      "name" : "Batman",
+      "age" : 100,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "poder de murcielago",
+        "Super Fuerza",
+        "Poder nocturno",
+        "Poder del Dinero"
+      ]
+    }
+  ]
+}
